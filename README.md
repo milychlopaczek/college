@@ -1,2 +1,4 @@
 # college
-projects i made in college
+Projects i made in college (University of Warsaw MIMUW).
+
+
