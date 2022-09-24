@@ -1,0 +1,19 @@
+digraph
+{
+    start->f
+    f->a
+    a->start
+    a->b
+    b->start
+    b->c
+    c->g
+    c->d
+    d->start
+    d->e
+    e->start
+    e->f
+    g->h
+    g->i
+    h->j
+    i->j
+}

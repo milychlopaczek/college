@@ -1,0 +1,8 @@
+Instrukcja obsługi sprawdzarki dla systemu Linux:
+
+(1) Pobierz udostępniony folder wielomiany_sprawdzarka. (zostanie on skompresowany do archiwum zip)
+(2) Przenieś go do twojego folderu z programem zaliczeniowym.
+(3) unzip nazwa.zip (nazwa.zip to nazwa skompresowanego archiwum zip, polecenie rozpakowuje archiwum)
+(4) chmod u+x testuj.sh (nadaje uprawnienia użytkownikowi do wykonywania skryptu testuj.sh)
+(5) ./testuj.sh nazwa.c (nazwa.c to nazwa twojego programu zaliczeniowego z rozszerzeniem c)
+

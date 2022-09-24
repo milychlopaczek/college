@@ -1,0 +1,11 @@
+DiGRAPh
+{
+    start -> a
+    a->b
+    b->c
+    c->start
+    a->c
+    c->d
+    d->e
+    e->start
+}

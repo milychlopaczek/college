@@ -1,0 +1,33 @@
+
+digraph
+{
+
+    ccc
+    ->
+    ddddddddddddddddddddddddddddddd
+
+    a
+    ->
+    bb
+
+    ddddddddddddddddddddddddddddddd
+    ->
+    bb
+
+    start
+    ->
+    a
+
+    bb
+    ->
+    ccc
+
+    ccc
+    ->
+    a
+
+    e
+    ->
+    bb
+
+}

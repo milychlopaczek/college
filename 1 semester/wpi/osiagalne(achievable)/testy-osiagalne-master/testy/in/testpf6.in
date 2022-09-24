@@ -1,0 +1,29 @@
+digraph
+
+
+
+    {
+
+
+
+
+        start->a
+        a->b
+        b->c
+        c       ->    d
+        d  ->e
+        e-> f
+        f->    a
+        d->ggg
+        ggg->h
+        h->i
+        i   ->j
+        j->k
+        k->l
+        l->     
+
+
+
+                        ggg
+                        
+    }

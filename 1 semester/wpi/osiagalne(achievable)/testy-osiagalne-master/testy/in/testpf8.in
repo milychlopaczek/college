@@ -1,0 +1,6 @@
+DiGRAph
+
+    {
+start->a
+a       ->    start
+    }
