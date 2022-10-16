@@ -1,0 +1,22 @@
+# ninja log v5
+15	452	6773642503406502	CMakeFiles/phone_forward.dir/src/phone_forward_example.c.obj	8ab81bb59c65558f
+1	581	6773642504704252	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+3	516	6773642647512597	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+3	343	6773642826536701	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+3	247	6773647334233773	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+3	239	6773647772124997	CMakeFiles/phone_forward.dir/src/phone_forward_example.c.obj	8ab81bb59c65558f
+240	460	6773647774192250	phone_forward.exe	b05c02b867550644
+4	248	6773648650168016	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+271	563	6773648653222296	phone_forward.exe	b05c02b867550644
+4	251	6773650745165937	CMakeFiles/phone_forward.dir/src/phone_forward_example.c.obj	8ab81bb59c65558f
+253	530	6773650747895977	phone_forward.exe	b05c02b867550644
+4	234	6773652265020932	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+235	451	6773652267118945	phone_forward.exe	b05c02b867550644
+13	246	6773654242781402	CMakeFiles/phone_forward.dir/src/phone_forward_example.c.obj	8ab81bb59c65558f
+4	250	6773654242821395	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+250	520	6773654245411378	phone_forward.exe	b05c02b867550644
+12	209	6773654953208293	CMakeFiles/phone_forward.dir/src/phone_forward_example.c.obj	8ab81bb59c65558f
+3	227	6773654953398265	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+228	436	6773654955397887	phone_forward.exe	b05c02b867550644
+4	423	6775178050114091	CMakeFiles/phone_forward.dir/src/phone_forward.c.obj	366b66ebfa0605bd
+424	702	6775178052814102	phone_forward.exe	b05c02b867550644
