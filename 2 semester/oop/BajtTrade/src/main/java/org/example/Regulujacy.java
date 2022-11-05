@@ -54,3 +54,4 @@ public class Regulujacy extends Spekulant{
         return w;
     }
 }
+

@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 public class Oszczedny extends StrategiaDnia{
     private double limit_diamentow;
+    
     public Oszczedny(double ld)
     {
         limit_diamentow = ld;

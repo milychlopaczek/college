@@ -75,3 +75,4 @@ public class Wypukly extends Spekulant{
         return true;
     }
 }
+

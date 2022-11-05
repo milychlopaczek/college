@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 public class Okresowy extends StrategiaDnia{
     private final int okresowosc_nauki;
+    
     public Okresowy(int on)
     {
         okresowosc_nauki = on;

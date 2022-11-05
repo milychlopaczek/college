@@ -5,4 +5,5 @@ public class OfertaKupnaRobotnika extends OfertaRobotnika{
     {
         super(p, i, id, d, r);
     }
+    
 }

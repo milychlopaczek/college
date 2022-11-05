@@ -7,3 +7,4 @@ import java.util.Map;
 public abstract class StrategiaProdukcji {
     public abstract Ptyp Produkuj(Map<Pair<Ptyp, Integer>, Double> sredniaCena, int dzien);
 }
+

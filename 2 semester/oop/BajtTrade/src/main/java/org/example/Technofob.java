@@ -12,3 +12,4 @@ public class Technofob extends StrategiaKupowania{
         return o;
     }
 }
+

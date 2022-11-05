@@ -40,3 +40,4 @@ public class Rewolucjonista extends StrategiaKariery{
         return dzien % 7 == 0;
     }
 }
+

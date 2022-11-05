@@ -11,3 +11,5 @@ public class Socjalistyczna extends Gielda{
         Collections.sort(RK, Comparator.comparing(OfertaRobotnika::getDiamentyRobotnika).thenComparing(OfertaRobotnika::getIdRobotnika));
     }
 }
+
+

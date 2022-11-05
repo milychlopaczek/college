@@ -10,3 +10,4 @@ public abstract class StrategiaDnia {
         return true;
     }
 }
+

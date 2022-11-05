@@ -20,3 +20,4 @@ public class Zmechanizowany extends Czyscioszek{
         return w;
     }
 }
+

@@ -34,3 +34,5 @@ public class Sredniak extends StrategiaProdukcji{
         return historia_sredniej_produkcji;
     }
 }
+
+

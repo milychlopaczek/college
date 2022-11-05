@@ -17,3 +17,4 @@ public class Zrownowazona extends Gielda{
         }
     }
 }
+

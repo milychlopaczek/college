@@ -19,6 +19,7 @@ public class Main {
                     add(new StrategiaDniaAdapter()).
                     build();
             // moshi jest gotowe do wczytywania plikow json i wypisywania plikow json.
+            
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -13,3 +13,5 @@ public abstract class Spekulant extends Agent{
     public abstract ArrayList<OfertaKupnaSpekulanta> wystawOfertyKupna(int dzien, Map<Pair<Ptyp, Integer>, Double> srednieCeny);
     public abstract ArrayList<OfertaSprzedazySpekulanta> wystawOfertySprzedazy(int dzien, Map<Pair<Ptyp, Integer>, Double> srednieCeny);
 }
+
+

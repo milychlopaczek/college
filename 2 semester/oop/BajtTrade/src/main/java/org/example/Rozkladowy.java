@@ -12,3 +12,5 @@ public class Rozkladowy extends StrategiaDnia{
         return rand <= prawdopodobienstwo;
     }
 }
+
+

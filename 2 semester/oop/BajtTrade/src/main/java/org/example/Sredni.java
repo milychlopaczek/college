@@ -49,3 +49,4 @@ public class Sredni extends Spekulant{
         return w;
     }
 }
+

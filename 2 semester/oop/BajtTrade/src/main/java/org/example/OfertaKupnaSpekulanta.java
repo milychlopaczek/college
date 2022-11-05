@@ -5,4 +5,5 @@ public class OfertaKupnaSpekulanta extends OfertaSpekulanta{
     {
         super(p, i, c, poziom);
     }
+    
 }

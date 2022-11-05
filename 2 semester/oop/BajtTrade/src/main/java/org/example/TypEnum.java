@@ -14,3 +14,4 @@ enum Ztyp{
     inzynier,
     programista
 }
+

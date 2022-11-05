@@ -8,6 +8,7 @@ public class Kariera {
         poziom = p;
         this.nazwa = nazwa;
     }
+    
     public void dodajPoziom()
     {
         poziom++;

@@ -16,4 +16,5 @@ public abstract class Oferta {
     public Ptyp getProdukt() {
         return produkt;
     }
+    
 }

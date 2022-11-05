@@ -10,6 +10,7 @@ public class Perspektywiczny extends StrategiaProdukcji{
     {
         historia_perspektywy = hp;
     }
+    
     @Override
     public Ptyp Produkuj(Map<Pair<Ptyp, Integer>, Double> sredniaCena, int dzien) {
         double roznica = Double.MIN_VALUE;

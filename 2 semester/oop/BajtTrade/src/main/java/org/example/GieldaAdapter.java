@@ -9,6 +9,7 @@ public class GieldaAdapter {
     Object ToJson(Gielda g)
     {
         Object json;
+        
         if (g.getClass() == Kapitalistyczna.class)
         {
             json = new BezArgAdapter();

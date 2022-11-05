@@ -5,3 +5,4 @@ public class ProdukcjaAdapter {
     public int historia_perspektywy;
     public String nazwa;
 }
+
