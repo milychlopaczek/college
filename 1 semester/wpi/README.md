@@ -7,6 +7,6 @@ Simple polynomial calculator. Available operations are addition "+" and multipli
 Interactive (crossgram like) terminal game versus an algorithm that uses game theory (customizable difficulty level).
 The goal of the game is not to make the last move.
 # achievable (osiągalne)
-Program reads a graph and returns which nodes are achievable from a certain starting node.
+Program reads a graph and returns which nodes are achievable from a certain starting node. 
 
 

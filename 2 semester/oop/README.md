@@ -8,6 +8,6 @@ The whole project is object oriented so there are few subclasses to standard mat
 For example we have diagonal matrix that only has values (other than zero) on the diagonal.
 Of course if we add one diagonal matrix to another we will get a diagonal matrix.
 # Bajt Trade
-Program that given input in JSON simulates stock market. 
+Program that given input in JSON simulates stock market.  
 
 
