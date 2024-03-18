@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-PW-lockfree",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_read_multiple_write::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_read_multiple_write-Debug-2f252aabf68c1c4525fe.json",
+					"name" : "multiple_read_multiple_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_read_multiple_write_with_isempty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_read_multiple_write_with_isempty-Debug-5d06e3fa31c95b040c09.json",
+					"name" : "multiple_read_multiple_write_with_isempty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_read_one_write::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_read_one_write-Debug-1ea51eac55b9cf1d9bf8.json",
+					"name" : "multiple_read_one_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_read_one_write_with_isempty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_read_one_write_with_isempty-Debug-f7eef10f3c678ce3978b.json",
+					"name" : "multiple_read_one_write_with_isempty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "one_read_multiple_write::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-one_read_multiple_write-Debug-25fcb7d04017011c6ce7.json",
+					"name" : "one_read_multiple_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "one_read_multiple_write_with_isempty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-one_read_multiple_write_with_isempty-Debug-a573ed1b91d225202c2c.json",
+					"name" : "one_read_multiple_write_with_isempty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "one_read_one_write::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-one_read_one_write-Debug-f0236a914b928c4a2f81.json",
+					"name" : "one_read_one_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "one_read_one_write_tester_with_isempty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-one_read_one_write_tester_with_isempty-Debug-b89cd1f7805d27494705.json",
+					"name" : "one_read_one_write_tester_with_isempty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "queues::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queues-Debug-714f029538a4b6c8ab5a.json",
+					"name" : "queues",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleTester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleTester-Debug-e1329e81f0aa04ff5271.json",
+					"name" : "simpleTester",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug",
+		"source" : "/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

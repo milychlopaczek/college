@@ -1,0 +1,12 @@
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/queues.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/simpleTester.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/one_read_one_write.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/one_read_one_write_tester_with_isempty.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/one_read_multiple_write.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/one_read_multiple_write_with_isempty.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/multiple_read_multiple_write.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/multiple_read_multiple_write_with_isempty.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/multiple_read_one_write.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/multiple_read_one_write_with_isempty.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/build/CMakeFiles/rebuild_cache.dir

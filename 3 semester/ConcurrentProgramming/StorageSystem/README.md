@@ -1,0 +1,4 @@
+Systems for storing data (storage systems) must simultaneously meet many requirements, in particular regarding the performance of data access operations, the use of data carrier capacity, and the resistance to failures of devices being these carriers. For this purpose, they often move data fragments between individual devices. Your task will be to implement in Java mechanisms coordinating concurrent operations of moving such data in accordance with the following requirements.
+
+## Specification
+In our system model, data is grouped into components and stored on devices in such units. Both each device and each data component have an immutable and unique identifier within the system (an object of the appropriate cp2023.base.DeviceId and cp2023.base.ComponentId classes). Each device also has a capacity, that is, the maximum number of components it can store at any given time. The assignment of components to devices is managed by the system.

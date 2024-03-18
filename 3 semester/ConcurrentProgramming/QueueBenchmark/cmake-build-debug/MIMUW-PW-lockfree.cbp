@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MIMUW-PW-lockfree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queues">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/queues.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 queues"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queues/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/queues.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 queues/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simpleTester">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/simpleTester" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 simpleTester"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simpleTester/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/simpleTester" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 simpleTester/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_one_write">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_one_write"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_one_write/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_one_write/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_one_write_tester_with_isempty">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_one_write_tester_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_one_write_tester_with_isempty"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_one_write_tester_with_isempty/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_one_write_tester_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_one_write_tester_with_isempty/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_multiple_write">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_multiple_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_multiple_write"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_multiple_write/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_multiple_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_multiple_write/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_multiple_write_with_isempty">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_multiple_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_multiple_write_with_isempty"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one_read_multiple_write_with_isempty/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/one_read_multiple_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 one_read_multiple_write_with_isempty/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_multiple_write">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_multiple_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_multiple_write"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_multiple_write/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_multiple_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_multiple_write/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_multiple_write_with_isempty">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_multiple_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_multiple_write_with_isempty"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_multiple_write_with_isempty/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_multiple_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_multiple_write_with_isempty/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_one_write">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_one_write"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_one_write/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_one_write/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_one_write_with_isempty">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_one_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_one_write_with_isempty"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multiple_read_one_write_with_isempty/fast">
+				<Option output="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/multiple_read_one_write_with_isempty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 multiple_read_one_write_with_isempty/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/BLQueue.c">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/BLQueue.h">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/HazardPointer.c">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/HazardPointer.h">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/LLQueue.c">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/LLQueue.h">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/RingsQueue.c">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/RingsQueue.h">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/SimpleQueue.c">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/SimpleQueue.h">
+			<Option target="queues"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/BLQueue.c.o">
+			<Option target="simpleTester"/>
+			<Option target="one_read_one_write"/>
+			<Option target="one_read_one_write_tester_with_isempty"/>
+			<Option target="one_read_multiple_write"/>
+			<Option target="one_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_multiple_write"/>
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_one_write"/>
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/HazardPointer.c.o">
+			<Option target="simpleTester"/>
+			<Option target="one_read_one_write"/>
+			<Option target="one_read_one_write_tester_with_isempty"/>
+			<Option target="one_read_multiple_write"/>
+			<Option target="one_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_multiple_write"/>
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_one_write"/>
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/LLQueue.c.o">
+			<Option target="simpleTester"/>
+			<Option target="one_read_one_write"/>
+			<Option target="one_read_one_write_tester_with_isempty"/>
+			<Option target="one_read_multiple_write"/>
+			<Option target="one_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_multiple_write"/>
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_one_write"/>
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/RingsQueue.c.o">
+			<Option target="simpleTester"/>
+			<Option target="one_read_one_write"/>
+			<Option target="one_read_one_write_tester_with_isempty"/>
+			<Option target="one_read_multiple_write"/>
+			<Option target="one_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_multiple_write"/>
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_one_write"/>
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug/CMakeFiles/queues.dir/SimpleQueue.c.o">
+			<Option target="simpleTester"/>
+			<Option target="one_read_one_write"/>
+			<Option target="one_read_one_write_tester_with_isempty"/>
+			<Option target="one_read_multiple_write"/>
+			<Option target="one_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_multiple_write"/>
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+			<Option target="multiple_read_one_write"/>
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/multiple_read_multiple_write.c">
+			<Option target="multiple_read_multiple_write"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/multiple_read_multiple_write_with_isempty.c">
+			<Option target="multiple_read_multiple_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/multiple_read_one_write.c">
+			<Option target="multiple_read_one_write"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/multiple_read_one_write_with_isempty.c">
+			<Option target="multiple_read_one_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/one_read_multiple_write.c">
+			<Option target="one_read_multiple_write"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/one_read_multiple_write_with_isempty.c">
+			<Option target="one_read_multiple_write_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/one_read_one_write_tester.c">
+			<Option target="one_read_one_write"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/one_read_one_write_tester_with_isempty.c">
+			<Option target="one_read_one_write_tester_with_isempty"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/simpleTester.c">
+			<Option target="simpleTester"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

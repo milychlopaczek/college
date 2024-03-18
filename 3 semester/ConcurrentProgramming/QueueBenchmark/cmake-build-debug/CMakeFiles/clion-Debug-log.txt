@@ -1,0 +1,6 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456 -B /mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug"
+your 131072x1 screen size is bogus. expect trouble
+your 131072x1 screen size is bogus. expect trouble
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/jakub/Desktop/studia/pw/3zal/ab123456/cmake-build-debug
